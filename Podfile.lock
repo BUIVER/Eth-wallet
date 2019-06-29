@@ -1,0 +1,44 @@
+PODS:
+  - BigInt (3.1.0):
+    - SipHash (~> 1.2)
+  - CorePlot (2.2)
+  - CryptoSwift (1.0.0)
+  - secp256k1_ios (0.1.3)
+  - SipHash (1.2.2)
+  - SwiftLint (0.31.0)
+  - SwiftyJSON (4.3.0)
+  - Web3Swift.io (0.0.3):
+    - BigInt (~> 3.1)
+    - CryptoSwift (~> 1.0)
+    - secp256k1_ios (~> 0.1)
+    - SwiftyJSON (~> 4.3)
+
+DEPENDENCIES:
+  - CorePlot
+  - SwiftLint
+  - Web3Swift.io
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - BigInt
+    - CorePlot
+    - CryptoSwift
+    - secp256k1_ios
+    - SipHash
+    - SwiftLint
+    - SwiftyJSON
+    - Web3Swift.io
+
+SPEC CHECKSUMS:
+  BigInt: 76b5dfdfa3e2e478d4ffdf161aeede5502e2742f
+  CorePlot: cbe0c6e14220705e32e06a89c7d6a5a908b7d7d8
+  CryptoSwift: d81eeaa59dc5a8d03720fe919a6fd07b51f7439f
+  secp256k1_ios: ac9ef04e761f43c58012b28548afa91493761f17
+  SipHash: fad90a4683e420c52ef28063063dbbce248ea6d4
+  SwiftLint: 7a0227733d786395817373b2d0ca799fd0093ff3
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+  Web3Swift.io: 767a6d8d411ef1b9178d52bf7883ac8866f25f14
+
+PODFILE CHECKSUM: d981b53b93e0012a2513368a37a7995c0daa3cef
+
+COCOAPODS: 1.6.1
